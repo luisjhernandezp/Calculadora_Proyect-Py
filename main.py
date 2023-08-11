@@ -1,3 +1,4 @@
+#Comentario de prueba
 from tkinter import*
 import itertools
 import math
